@@ -2,6 +2,7 @@ name: stumax
 favicon: null
 layout_spectrum: 0.8689758442342281
 typography_spectrum: 0.6173957604914904
+title: "Stuart's Grid"
 cta:
   domain: null
   bucket: null
