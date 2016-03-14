@@ -1,0 +1,28 @@
+name: stumax
+favicon: null
+layout_spectrum: 0.8689758442342281
+typography_spectrum: 0.6173957604914904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7062028823420405
+  lightness: 0.8119184272363782
+  saturation: 0.8397626748774201
+  rhythmicContrast: 0.955484950216487
+purpose: []
