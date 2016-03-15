@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: The StuMax Chronicles
+favicon: null
+layout_spectrum: 0.753
+typography_spectrum: 0.31241
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.753
 title: "Stuart's Grid"
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8397626748774201
-  brandStrength: 0.7062028823420405
-  rhythmicContrast: 0.955484950216487
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+  brandStrength: 0.7062028823420405
   lightness: 0.8119184272363782
+  saturation: 0.8397626748774201
+  rhythmicContrast: 0.955484950216487
 purpose: []
-favicon: null
-name: stumax
-typography_spectrum: 0.31241
