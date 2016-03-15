@@ -4,11 +4,18 @@
         <description><![CDATA[The StuMax Files]]></description>
         <link>https://thegrid.ai/stumax/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 18:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 18:53:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stumax/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Why UX workshops rock: comparing UX discovery methods]]></title>
+            <description><![CDATA[<article><h1>Why UX workshops rock: comparing UX discovery methods</h1><p>This comparison focuses on discovery methods and does not look at methods for evaluation. Reviews of user profiles, flows, and interfaces with any stakeholder groups, from the client to the tech team to end-users, are part of a different set of activities during the experience design and development process.</p><img src="http://static1.squarespace.com/static/52e2bdc7e4b0ec32cf69af14/t/56e7c0ac4c2f85a174ee9839/1458028743327/?format=1000w"></article>]]></description>
+            <link>http://www.agux.co/blog/comparing-ux-discovery-methods</link>
+            <guid isPermaLink="false">282b33e5-2170-421c-bcee-ae1846359c31</guid>
+            <pubDate>Tue, 15 Mar 2016 18:53:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Norman Doors: Don't Know Whether to Push or Pull? Blame Design. - 99% Invisible]]></title>
-            <description><![CDATA[<article><h1>Norman Doors: Don't Know Whether to Push or Pull? Blame Design. - 99% Invisible</h1><p>Some doors require printed instructions to operate, while others are so poorly designed that they lead people to do the exact opposite of what they need to in order to open them. Their shapes or details may suggest that pushing should work, when in fact pulling is required (or the other way around).</p><img src="http://99percentinvisible.org/wp-content/uploads/2016/02/pulldoors.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Norman Doors: Don't Know Whether to Push or Pull? Blame Design. - 99% Invisible</h1><p>Some doors require printed instructions to operate, while others are so poorly designed that they lead people to do the exact opposite of what they need to in order to open them. Their shapes or details may suggest that pushing should work, when in fact pulling is required (or the other way around).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be0236bb638c11dadc18bdd863554f429f029218.jpg"></article>]]></description>
             <link>http://99percentinvisible.org/article/norman-doors-dont-know-whether-push-pull-blame-design/</link>
             <guid isPermaLink="false">bd47c97c-f2d8-4e76-a6eb-919da3d51a91</guid>
             <pubDate>Tue, 15 Mar 2016 18:29:10 GMT</pubDate>
