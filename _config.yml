@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: "Stuart's Grid"
+title: The StuMax Files
 cta:
   domain: null
   bucket: null
